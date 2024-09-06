@@ -1,0 +1,13 @@
+{
+  "name": "handika",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "handika",
+  "license": "MIT",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^13.14.2"
+  }
+}
